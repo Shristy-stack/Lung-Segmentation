@@ -1,4 +1,4 @@
-# Lung-Segmentation
+# Lung Image Segmentation
 Lung Segmentation using U-Net with PyTorch Lightning
 This repository contains a deep learning pipeline for lung segmentation using the U-Net architecture, implemented with PyTorch and PyTorch Lightning. The model was trained and tested on the https://challenge.isic-archive.com/data/#2017, achieving a Dice score of 0.79.
 
